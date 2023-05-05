@@ -1,0 +1,54 @@
+@extends('Yield.Secondaire1')
+@section('S2')
+    <table border="2px" >
+        <tr>
+            <th>Framework</th>
+            <th>Levele</th>
+            <th>PR.Langue</th>
+        </tr>
+        <tr>
+            <td>
+                LARAVEL
+            </td>
+            <td>
+                *****
+            </td>
+            <td>
+                PHP
+            </td>
+        </tr>
+        <tr>
+            <td>
+                REACT JS
+            </td>
+            <td>
+                *****
+            </td>
+            <td>
+                JAVASCRIPT
+            </td>
+        </tr>
+        <tr>
+            <td>
+                BOOTSTRAP
+            </td>
+            <td>
+                ****
+            </td>
+            <td>
+                CSS
+            </td>
+        </tr>
+        <tr>
+            <td>
+                NODE JS
+            </td>
+            <td>
+                *****
+            </td>
+            <td>
+                JAVASCRIPT /(back)
+            </td>
+        </tr>
+    </table>
+@endsection
